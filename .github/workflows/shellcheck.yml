@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Run Shellcheck Action
-      uses: fearphage/shellcheck-action@1.0.0
+      uses: ludeeus/action-shellcheck@0.0.1
